@@ -1,0 +1,8 @@
+server.port: 9084
+spring:
+  application:
+    name: order-service
+
+topic:
+  names:
+    - order-topic

@@ -1,0 +1,8 @@
+server.port: 9085
+spring:
+  application:
+    name: kitchen-service
+
+queue:
+  names:
+    - order-queue
